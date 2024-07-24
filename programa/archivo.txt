@@ -1,0 +1,6 @@
+codigo5667
+Nombrepedro saboya
+Edad50
+Telefono65328
+ProfesionProfesor
+El text AreaCodigo:5667Nombre:pedro saboyaEdad:50Telefono:65328Profesion:Profesor
